@@ -1,0 +1,4 @@
+git clone https://github.com/samsuddin1234567/Find-IMEI-TRACKER.git
+cd IMEI-TRACKER
+pip install -r requirements.txt
+python3 Track.py
