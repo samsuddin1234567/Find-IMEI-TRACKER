@@ -1,6 +1,6 @@
 
 ## Project Status  
-🚧 **Under Development:** The HTML, JS, and CSS components of the web interface are being actively developed.  
+🚧 Development:** The HTML, JS, and CSS components of the web interface are being actively developed.  
 
 ---
 
